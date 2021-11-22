@@ -1,12 +1,18 @@
 {
     "title": "The Basics Tma testing",
     "description": "Your app fetched this from a remote endpoint!",
-    "movies": [
-      { "id": "1", "title": "Physics 101", "releaseYear": "Testing again" },
-      { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
-      { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
-      { "id": "4", "title": "Inception", "releaseYear": "2010" },
-      { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
+    "Courses": [
+      { "id": "1", "title": "103 TMA 3", "CourseAnswers": "
+            1. Machine Language
+            2. Browser
+            3. Portrait
+            4. System unit, Input/output, Memory
+            5. All the options 
+            6. System Unit
+            7. Bit
+            8. Control
+            9. Mailbox
+            10. LAN" },
     ]
   }
   
