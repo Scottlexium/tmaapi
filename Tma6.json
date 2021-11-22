@@ -2,7 +2,8 @@
   "title": "The Basics Tma testing",
   "description": "Your app fetched this from a remote endpoint!",
   "Courses": [
-    { "id": "1", "title": "103 TMA 3", "One": " 1. Machine Language", "Two": "Browser","Three": " 3.  Portrait", "Four": " 4. System unit, Input/output, Memory","Five": " 5.All the options ", "Six": "6. System Unit", "Seven": "7. Bit", "Eight": "8. Control", "Nine": "9. Mailbox", "Ten": "10. LAN"}
+    { "id": "1", "title": "GST 103 TMA 3", "One": " 1. Machine Language", "Two": "2. Browser","Three": " 3.  Portrait", "Four": " 4. System unit, Input/output, Memory","Five": " 5.All the options ", "Six": "6. System Unit", "Seven": "7. Bit", "Eight": "8. Control", "Nine": "9. Mailbox", "Ten": "10. LAN"},
+    { "id": "2", "title": "PHY 101 TMA 2", "One": " 1. It’s a very long solution. Just choose 10.46m/s.", "Two": "2. Surface tension","Three": " 3.  vt + ½at² ", "Four": " 4. 520 ","Five": " 5. 0.92 N ", "Six": "6. 9.9 × 10^6 Pa", "Seven": "7. –1/√5 j + 2/√5k (NOUN FAILED IT FOR ME 😂😂", "Eight": "8. 38 C ", "Nine": "9. √3/4. ", "Ten": "10.  6.0N"}
   ]
 }
 
