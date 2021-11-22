@@ -1,18 +1,8 @@
 {
-    "title": "The Basics Tma testing",
-    "description": "Your app fetched this from a remote endpoint!",
-    "Courses": [
-      { "id": "1", "title": "103 TMA 3", "CourseAnswers": "
-            1. Machine Language
-            2. Browser
-            3. Portrait
-            4. System unit, Input/output, Memory
-            5. All the options 
-            6. System Unit
-            7. Bit
-            8. Control
-            9. Mailbox
-            10. LAN" },
-    ]
-  }
-  
+  "title": "The Basics Tma testing",
+  "description": "Your app fetched this from a remote endpoint!",
+  "Courses": [
+    { "id": "1", "title": "103 TMA 3", "One": " 1. Machine Language", "Two": "Browser","Three": " 3.  Portrait", "Four": " 4. System unit, Input/output, Memory","Five": " 5.All the options ", "Six": "6. System Unit", "Seven": "7. Bit", "Eight": "8. Control", "Nine": "9. Mailbox", "Ten": "10. LAN"},
+  ]
+}
+
